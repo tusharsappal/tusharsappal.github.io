@@ -2,32 +2,35 @@
   role: Site Reliability Engineer
   time: 2015 - 2017
   company: Adobe Systems India Pvt. Limited
-  details: "1. Ensure Production Service availability with maximum uptime for Adobe Campaign. Developing tools to facilitate production system uptime and achieving product SLA
-            2. Responsible for Infrastructure Automation and Orchestration .
-            3. Automate the daily Ad-hoc processes
-            4. Experience in development, deployment and scaling systems across DC and Cloud infrastructure
-            5. Production System Monitoring , Incident Management , Server Capacity Management .
-            6. Troubleshoot operational and application issues and fix them within the SLA.
-            7. Writing up control scripts for new processes."
+  details:
+  - '1. Ensure Production Service availability with maximum uptime for Adobe Campaign. Developing tools to facilitate production system uptime and achieving product SLA'
+  - '2. Responsible for Infrastructure Automation and Orchestration .'
+  - '3. Automate the daily Ad-hoc processes'
+  - '4. Experience in development ,deployment and scaling systems across DC and Cloud infrastructure'
+  - '5. Production System Monitoring , Incident Management , Server Capacity Management .'
+  - '6. Troubleshoot operational and application issues and fix them within the SLA.'
+  - '7. Writing up control scripts for new processes."'
 
 - experience:
   role: Senior Software Engineer
   time: 2014 - 2015
   company: Adobe Systems India Pvt. Limited
-  details: "1. Wrote the Automation for different Test Cases for Adobe Target.
-            2. Lead the UI Automation of Adobe Target using Selenium and WebDriver.
-            3. Lead Performance and Responsiveness Testing for Adobe Target Frontend.
-            4. Testing and Validating Adobe Target End to end flows and verifying Integrations of Adobe Target.
-            5. Capable in working Agile Software Development lifecycles.
-            6. Managing Customer feedback around Product Usage.."
+  details:
+  - '1. Wrote the Automation for different Test Cases for Adobe Target.'
+  - '2. Lead the UI Automation of Adobe Target using Selenium and WebDriver.'
+  - '3. Lead Performance and Responsiveness Testing for Adobe Target Frontend.'
+  - '4. Testing and Validating Adobe Target End to end flows and verifying Integrations of Adobe Target.'
+  - '5. Capable in working Agile Software Development lifecycles.'
+  - '6. Managing Customer feedback around Product Usage..'
 
 - experience:
   role: Software Engineer
   time: 2012 - 2014
   company: Adobe Systems India Pvt. Limited
-  details: "1. Automation of XML and UI Test Cases for Adobe Connect .
-            2. Single handedly wrote and lead the automation effort of Mobile Application of Adobe Connect.
-            3. Single handedly wrote and lead the automation for Nightly Performance Automation of Adobe Connect .
-            4. End to end feature testing of Adobe Connect
-            5. Managing Feature escalation from support / customers and driving the respective fixes.
-            6. Enabling Product support teams / partners over the new features."
+  details:
+  - '1. Automation of XML and UI Test Cases for Adobe Connect .'
+  - '2. Single handedly wrote and lead the automation effort of Mobile Application of Adobe Connect.'
+  - '3. Single handedly wrote and lead the automation for Nightly Performance Automation of Adobe Connect .'
+  - '4. End to end feature testing of Adobe Connect'
+  - '5. Managing Feature escalation from support / customers and driving the respective fixes.'
+  - '6. Enabling Product support teams / partners over the new features.'
