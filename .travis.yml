@@ -2,6 +2,9 @@ language: ruby
 rvm:
 - 2.4.0
 
+install:
+ - bundle install
+
 before_script:
  - chmod a+x ./script/cibuild # or do this locally and commit
 
