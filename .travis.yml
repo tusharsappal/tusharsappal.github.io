@@ -2,7 +2,7 @@ language: ruby
 rvm:
 - 2.4.0
 
-install: echo $PWD
+install: ls -lhrta
 
 
 before_script:
