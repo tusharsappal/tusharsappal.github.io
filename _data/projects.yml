@@ -2,22 +2,14 @@ intro: "Majority of the projects I did are for personal , learning . I have publ
 One can find the code base at the link , [Tushar Sappal's Github Home]https://github.com/tusharsappal"
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Scripter
+    link: ""
+    tagline: "Set of General Utility Scripts Designed in Pyhton ,PHP and Java. It aims at capturing daily needs of developers"
   - project:
-    title: DevStudio
+    title: NewsBurner
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "News Burner is an Android App to view the RSS Feeds from the popular news websites, with the capability of Searching and filtering in the app."
   - project:
-    title: Tempo
+    title: Mgranthi
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "MGranthi is an Android App that has in it the various parts of Guru Granth Sahib in Pdf Format ,which are bundled with the application ."
