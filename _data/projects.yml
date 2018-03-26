@@ -3,7 +3,7 @@ One can find the code base at the link , [Tushar Sappal's Github Home] https://g
 projects:
   - project:
     title: Scripter
-    link: ""
+    link: "https://github.com/tusharsappal/Scripter"
     tagline: "Set of General Utility Scripts Designed in Pyhton ,PHP and Java. It aims at capturing daily needs of developers"
   - project:
     title: NewsBurner
