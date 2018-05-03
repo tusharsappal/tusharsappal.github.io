@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.4.0
+- 2.4.1
 
 install: bundle install
 
@@ -23,3 +23,7 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 sudo: false # route your build to the container-based infrastructure for a faster build
+
+notifications:
+  email:
+    - sappal.tushar@gmail.com
