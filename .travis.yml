@@ -26,4 +26,7 @@ sudo: false # route your build to the container-based infrastructure for a faste
 
 notifications:
   email:
-    - sappal.tushar@gmail.com
+    recipients:
+      - sappal.tushar@gmail.com
+    on_success: always
+    on_failure: always
