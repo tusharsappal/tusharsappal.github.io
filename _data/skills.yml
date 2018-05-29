@@ -5,8 +5,14 @@
   name: Ansible
   level: 90%
 - skill:
-  name: shell
+  name: Shell Scripting
   level: 80%
 - skill:
-  name: git
+  name: Git
   level: 80%
+- skill:
+  name: Monitoring using Nagios/Datadog
+  level: 90%
+- skill:
+  name: Linux System Administration
+  level: 60%
