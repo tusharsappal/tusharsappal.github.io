@@ -1,4 +1,11 @@
 - experience:
+  role: Senior Software Engineer
+  time: 2018-Present
+  company: Myntra/Jabong
+  details:
+  - '1. Part of the Devops team of the Myntra/Jabong team'
+  - '2. Actively involved in Migration the Services from AWS onto Azure as part of the Devops team'
+
   role: Senior Member Of Technical Staff
   time: 2017 - 2018
   company: Adobe Systems India Pvt. Limited
@@ -38,8 +45,8 @@
   company: Adobe Systems India Pvt. Limited
   details:
   - '1. Automation of XML and UI Test Cases for Adobe Connect .'
-  - '2. Single handedly wrote and lead the automation effort of Mobile Application of Adobe Connect.'
-  - '3. Single handedly wrote and lead the automation for Nightly Performance Automation of Adobe Connect .'
+  - '2. Wrote and lead the automation effort of Mobile Application of Adobe Connect.'
+  - '3. Wrote and lead the automation for Nightly Performance Automation of Adobe Connect .'
   - '4. End to end feature testing of Adobe Connect'
   - '5. Managing Feature escalation from support / customers and driving the respective fixes.'
   - '6. Enabling Product support teams / partners over the new features.'
