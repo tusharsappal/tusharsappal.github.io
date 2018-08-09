@@ -1,5 +1,4 @@
-intro: "Majority of the projects I did are for personal learning . I have published the projects `Source code` onto Github.
-One can find the code base at the link , [Tushar Sappal's Github Home] https://github.com/tusharsappal"
+intro: "Majority of the projects I did are for personal learning . I have published the projects Source code onto Github and Bitbucket."
 projects:
   - project:
     title: Scripter
@@ -13,3 +12,12 @@ projects:
     title: Mgranthi
     link: "#"
     tagline: "MGranthi is an Android App that has in it the various parts of Guru Granth Sahib in Pdf Format ,which are bundled with the application ."
+  - project:
+    title: Atlassian Confluence Page Test Case Framework
+    link: "https://github.com/tusharsappal/AtlassianRecruitmentProblem"
+    tagline: "This repo was part of Atlassian Recruitment Exercise which involved automating User workflows in confluence "
+  - project:
+    title: Spotify Desktop App Test Case Framework
+    link: "https://github.com/tusharsappal/spotifyrecruitmentproblem"
+    tagline: "This repo was part of Spotify Recruitment Exercise which involved automating User Workflows in Spotify's Desktop Application"
+
