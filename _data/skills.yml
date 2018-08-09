@@ -1,6 +1,6 @@
 - skill:
   name: Python
-  level: 95%
+  level: 80%
 - skill:
   name: Ansible
   level: 90%
@@ -11,8 +11,11 @@
   name: Git
   level: 80%
 - skill:
-  name: Monitoring using Nagios/Datadog
-  level: 90%
+  name: Azure
+  level: 60%
+- skill:
+  name: AWS
+  level: 60%
 - skill:
   name: Linux System Administration
-  level: 60%
+  level: 40%
