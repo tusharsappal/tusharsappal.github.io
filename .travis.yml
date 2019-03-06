@@ -2,7 +2,7 @@ language: ruby
 rvm:
 - 2.4.1
 
-install: install bundler -v '2.0.1' && bundle install
+install: bundle install -v '2.0.1'
 
 
 before_script:
