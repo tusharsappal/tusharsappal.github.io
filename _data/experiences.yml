@@ -1,19 +1,29 @@
 - experience:
-  role: Senior Software Engineer
+  role: Site Reliability Engineering
   time: 2018 - Present
+  company: VMWare
+  details:
+  - 'Kubernetes ,Docker , AWS @ VMWare'
+
+- experience:
+  role: Senior Software Engineer
+  time: 2018 - 2018
   company: Myntra/Jabong
   details:
   - '1. Part of the Devops team of the Myntra/Jabong team'
-  - '2. Leading Migration of Compute and Storage Services from AWS onto Azure as part of the Devops team'
+  - '2. Lead Migration of Compute and Storage Services from AWS onto Azure as part of the Devops team'
+  - '3. Wrote Custom Monitoring Integration of HAProxy for Datadog'
 
 - experience:
   role: Senior Member Of Technical Staff
   time: 2017 - 2018
   company: Adobe Systems India Pvt. Limited
   details:
-  - '1. Key Part of the Developer team that was responsible for migrating the existing infrastructure from AWS onto Azure'
-  - '2. Worked Extensively on Automating the Image Creation Flow for the Azure Stacks'
-  - '3. Added extensive Monitoring for the Azure Infrastructure with Datadog and Pingdom and migrated existing Alerts and Dashboards from Legacy Stackdriver'
+  - '1. Key Part of the Developer team that was responsible for migrating the existing infrastructure from AWS onto Azure.'
+  - '2. Lead Automation efforts for the Image Creation  for the Azure Stacks.'
+  - '3. Added extensive Monitoring for the Azure Infrastructure with Datadog and Pingdom .'
+  - '4. Wrote Custom Integration of Azure services with Datadog.'
+  - '5. Enhanced existing Jenkins build pipelines for Azure Deployments.'
 
 - experience:
   role: Site Reliability Engineer
