@@ -2,8 +2,11 @@ language: ruby
 rvm:
 - 2.4.1
 
-install: bundle install -v '2.0.1'
+before_install:
+    - gem update --system
+    - gem install bundler
 
+install: bundle install
 
 before_script:
  - chmod a+x ./script/cibuild # or do this locally and commit
