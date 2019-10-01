@@ -1,21 +1,15 @@
 - skill:
   name: Python
-  level: 80%
-- skill:
-  name: Ansible
-  level: 90%
-- skill:
-  name: Shell Scripting
-  level: 80%
-- skill:
-  name: Git
-  level: 80%
-- skill:
-  name: Azure
-  level: 60%
+  level: 70%
 - skill:
   name: AWS
   level: 60%
 - skill:
-  name: Linux System Administration
-  level: 40%
+  name: Kubernetes
+  level: 60%
+- skill:
+  name: Docker and Containers
+  level: 60
+- skill:
+  name: Site Reliability Engineering Practices / Devops 
+  level: 80

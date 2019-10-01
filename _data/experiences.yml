@@ -1,9 +1,13 @@
 - experience:
-  role: Site Reliability Engineering
+  role: Senior Site Reliability Engineering
   time: 2018 - Present
   company: VMWare
   details:
-  - 'Kubernetes ,Docker , AWS @ VMWare'
+  - 'Leading the Site Reliability Engineering efforts on Monitoring , Logging , Upgrade , Incident Management, Feature Development etc.'
+  - 'Developing custom monitoring solutions for platform monitoring and uptime'
+  - 'Feature development and enhancement for the PAAS platform'
+  - 'On Call activities for the platform'
+  - 'Leading Pre and Post Deployment Validation , automated testing efforts'
 
 - experience:
   role: Senior Software Engineer
