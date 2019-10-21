@@ -3,9 +3,9 @@
   time: 2018 - Present
   company: VMWare
   details:
-  - '1. Leading the Site Reliability Engineering efforts on Monitoring , Logging , Upgrade , Incident Management, Feature Development etc.'
+  - '1. Leading the Site Reliability Engineering efforts on Monitoring , Logging , Upgrade , Incident Management, Feature Development etc. on our Kubernetes PAAS Solution'
   - '2. Developing custom monitoring solutions for platform monitoring , uptime '
-  - '3. Feature development, enhancements for the PAAS platform'
+  - '3. Feature development, enhancements for the Kubernetes PAAS platform'
   - '4. On Call activities, Incident management and Postmortem efforts for the platform'
   - '5. Leading and owning Pre and Post Deployment Validation , automated testing efforts'
   - '6. Leading One Click Deployment of PAAS Infrastructure , auto-remidiation / repairing of Infrastrucutre.'
