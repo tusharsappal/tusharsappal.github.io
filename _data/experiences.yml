@@ -1,29 +1,30 @@
 - experience:
-  role: Senior Site Reliability Engineering
+  role: Senior Site Reliability Engineer
   time: 2018 - Present
   company: VMWare
   details:
-  - 'Leading the Site Reliability Engineering efforts on Monitoring , Logging , Upgrade , Incident Management, Feature Development etc.'
-  - 'Developing custom monitoring solutions for platform monitoring and uptime'
-  - 'Feature development and enhancement for the PAAS platform'
-  - 'On Call activities for the platform'
-  - 'Leading Pre and Post Deployment Validation , automated testing efforts'
+  - '1. Leading the Site Reliability Engineering efforts on Monitoring , Logging , Upgrade , Incident Management, Feature Development etc.'
+  - '2. Developing custom monitoring solutions for platform monitoring and uptime'
+  - '3. Feature development and enhancement for the PAAS platform'
+  - '4. On Call activities for the platform'
+  - '5. Leading Pre and Post Deployment Validation , automated testing efforts'
+
 
 - experience:
-  role: Senior Software Engineer - SRE / Devops 
+  role: Senior Software Engineer - Site Reliability Engineering / Devops 
   time: 2018 - 2018
   company: Myntra/Jabong
   details:
-  - '1. Part of the Devops team of the Myntra/Jabong team'
-  - '2. Lead Migration of Compute and Storage Services from AWS onto Azure as part of the Devops team'
-  - '3. Wrote Custom Monitoring Integration of HAProxy for Datadog'
+  - '1. Lead the culture of SRE within the Organisation, implemenation of Automated Incident Management across services'
+  - '2. Lead Migration of Compute and Storage Services from AWS onto Azure'
+  - '3. Wrote Custom Monitoring Integration of Applications and Infrastructure ( on Cloud and on DC ) with Datadog'
 
 - experience:
   role: Senior Member of Technical Staff - Site Reliability Engineering
   time: 2012 - 2018
   company: Adobe Systems India Pvt. Limited
   details:
-  - '1. Co-ordinating and Collaborating Multi Geo effort across different SAAS product teams in Digital Marketing Business Unit'
+  - '1. Co-ordinating and Collaborating Multi Geo efforts across different SAAS product teams in Digital Marketing Business Unit'
   - '2. Lead Post and Pre-Deployment automated testing for SAAS products of Digital Marketing Business Unit'
   - '3. Lead and completly owned the Nightly Performance Automation framework for the Performance Engineering Team'
   - '4. Managed Feature escalation from support / customers and driving the respective fixes.'
@@ -34,3 +35,5 @@
   - '9. System Monitoring,Infra and application monitoring / logging ,Incident Management and resoultion , Infra Capacity Management .'
   - '10. Troubleshooting and triaging operational and application issues and fixing them within the defined SLA.'
   - '11. Writing up control scripts for new processes, defining SOPs for services.'
+  - '12. Lead production upgrades / updates / patching efforts.'
+  - '13. Lead the creation and optimization of deployment / upgrade pipelines of products : A step towrads one click deployments'
