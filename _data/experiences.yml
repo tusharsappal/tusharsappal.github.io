@@ -4,10 +4,11 @@
   company: VMWare
   details:
   - '1. Leading the Site Reliability Engineering efforts on Monitoring , Logging , Upgrade , Incident Management, Feature Development etc.'
-  - '2. Developing custom monitoring solutions for platform monitoring and uptime'
-  - '3. Feature development and enhancement for the PAAS platform'
-  - '4. On Call activities for the platform'
-  - '5. Leading Pre and Post Deployment Validation , automated testing efforts'
+  - '2. Developing custom monitoring solutions for platform monitoring , uptime '
+  - '3. Feature development, enhancements for the PAAS platform'
+  - '4. On Call activities, Incident management and Postmortem efforts for the platform'
+  - '5. Leading and owning Pre and Post Deployment Validation , automated testing efforts'
+  - '6. Leading One Click Deployment of PAAS Infrastructure , auto-remidiation / repairing of Infrastrucutre.'
 
 
 - experience:
@@ -15,7 +16,7 @@
   time: 2018 - 2018
   company: Myntra/Jabong
   details:
-  - '1. Lead the culture of SRE within the Organisation, implemenation of Automated Incident Management across services'
+  - '1. Lead and developed the culture of SRE within the Organisation, implemenation of Automated Incident Management across services'
   - '2. Lead Migration of Compute and Storage Services from AWS onto Azure'
   - '3. Wrote Custom Monitoring Integration of Applications and Infrastructure ( on Cloud and on DC ) with Datadog'
 
