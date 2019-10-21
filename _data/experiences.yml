@@ -10,7 +10,7 @@
   - 'Leading Pre and Post Deployment Validation , automated testing efforts'
 
 - experience:
-  role: Senior Software Engineer
+  role: Senior Software Engineer - SRE / Devops 
   time: 2018 - 2018
   company: Myntra/Jabong
   details:
@@ -19,49 +19,24 @@
   - '3. Wrote Custom Monitoring Integration of HAProxy for Datadog'
 
 - experience:
-  role: Senior Member Of Technical Staff
-  time: 2017 - 2018
+  role: Senior Member of Technical Staff - Site Reliability Engineering
+  time: 2012 - 2018
   company: Adobe Systems India Pvt. Limited
   details:
-  - '1. Key Part of the Developer team that was responsible for migrating the existing infrastructure from AWS onto Azure.'
-  - '2. Lead Automation efforts for the Image Creation  for the Azure Stacks.'
-  - '3. Added extensive Monitoring for the Azure Infrastructure with Datadog and Pingdom .'
-  - '4. Wrote Custom Integration of Azure services with Datadog.'
-  - '5. Enhanced existing Jenkins build pipelines for Azure Deployments.'
-
-- experience:
-  role: Site Reliability Engineer
-  time: 2015 - 2017
-  company: Adobe Systems India Pvt. Limited
-  details:
-  - '1. Ensure Production Service availability with maximum uptime for Adobe Campaign. Developing tools to facilitate production system uptime and achieving product SLA'
+  - '1. Co-ordinating and Collaborating Multi Geo effort across different SAAS product teams in Digital Marketing Business Unit'
+  - '2. Lead Post and Pre-Deployment automated testing for SAAS products of Digital Marketing Business Unit'
+  - '3. Lead and completly owned the Nightly Performance Automation framework for the Performance Engineering Team'
+  - '4. Managed Feature escalation from support / customers and driving the respective fixes.'
+  - '5. Ensure Production Service availability with maximum uptime for Adobe Campaign. '
+  - 'Developing tools to facilitate production system uptime and achieving product SLA'
   - '2. Responsible for Infrastructure Automation and Orchestration .'
   - '3. Automate the daily Ad-hoc processes'
   - '4. Experience in development ,deployment and scaling systems across DC and Cloud infrastructure'
   - '5. Production System Monitoring , Incident Management , Server Capacity Management .'
   - '6. Troubleshoot operational and application issues and fix them within the SLA.'
   - '7. Writing up control scripts for new processes."'
-
-- experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Adobe Systems India Pvt. Limited
-  details:
-  - '1. Wrote the Automation for different Test Cases for Adobe Target.'
-  - '2. Lead the UI Automation of Adobe Target using Selenium and WebDriver.'
-  - '3. Lead Performance and Responsiveness Testing for Adobe Target Frontend.'
-  - '4. Testing and Validating Adobe Target End to end flows and verifying Integrations of Adobe Target.'
-  - '5. Capable in working Agile Software Development lifecycles.'
-  - '6. Managing Customer feedback around Product Usage..'
-
-- experience:
-  role: Software Engineer
-  time: 2012 - 2014
-  company: Adobe Systems India Pvt. Limited
-  details:
-  - '1. Automation of XML and UI Test Cases for Adobe Connect .'
-  - '2. Wrote and lead the automation effort of Mobile Application of Adobe Connect.'
-  - '3. Wrote and lead the automation for Nightly Performance Automation of Adobe Connect .'
-  - '4. End to end feature testing of Adobe Connect'
-  - '5. Managing Feature escalation from support / customers and driving the respective fixes.'
-  - '6. Enabling Product support teams / partners over the new features.'
+  - '1. Key Part of the Developer team that was responsible for migrating the existing infrastructure from AWS onto Azure.'
+  - '2. Lead Automation efforts for the Image Creation  for the Azure Stacks.'
+  - '3. Added extensive Monitoring for the Azure Infrastructure with Datadog and Pingdom .'
+  - '4. Wrote Custom Integration of Azure services with Datadog.'
+  - '5. Enhanced existing Jenkins build pipelines for Azure Deployments.'
