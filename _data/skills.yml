@@ -2,7 +2,7 @@
   name: Python
   level: 70%
 - skill:
-  name: AWS
+  name: AWS ( Architecting Solutions on Public Cloud )
   level: 60%
 - skill:
   name: Kubernetes
@@ -13,3 +13,12 @@
 - skill:
   name: Site Reliability Engineering Practices / Devops 
   level: 80%
+- skill:
+  name: Infrastructure Monitoring , Alerting , Dashboarding and Logging
+  level: 80%
+- skill:
+  name: Incident Management Practices and DR Stratergies for Infrastructure  
+  level: 70%
+- skill:
+  name: Infrastructure Capactiy Planning and Cost Optimization 
+  level: 70%
