@@ -15,10 +15,10 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 #Profile information
 name: Tushar Sappal
-tagline:  Devops Engineer / Site Reliability Engineer / Software Engineer
+tagline:  Senior Site Reliability Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Software professional with a demonstrated history of working in the computer software industry , having experience in cloud technologies . 
-Skilled in Python, Agile Methodologies, Infrastructure Monitoring, Infrastructure Automation and  Tools Development.
+Skilled in Python, Agile Methodologies, Devops and SRE practices.
 Strong engineering professional with a Master’s Degree focused in Software Systems from BITS, Pilani.'
 
 #sidebar links
